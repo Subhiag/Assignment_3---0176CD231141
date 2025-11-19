@@ -1,0 +1,30 @@
+PYTHON|What is the correct file extension for Python files?|.pyt|.pt|.py|.p|C
+PYTHON|Which keyword is used to create a function in Python?|function|def|fun|define|B
+PYTHON|Which data type is immutable in Python?|List|Dictionary|Set|Tuple|D
+PYTHON|What is the output of 3 * '2'?|6|222|Error|None|B
+PYTHON|What is used to handle exceptions in Python?|try|accept|check|catch|A
+PYTHON|Which symbol is used to start a comment in Python?|//|#|/*|--|B
+PYTHON|What is the correct way to get input from the user?|get()|scan()|input()|read()|C
+PYTHON|Which operator is used for floor division?|/|//|%||B
+PYTHON|Which module is used to generate random numbers?|random|math|numbers|statistics|A
+PYTHON|Which keyword is used to import a module in Python?|include|import|using|require|B
+DBMS|Which key uniquely identifies each record in a table?|Primary key|Foreign key|Candidate key|Super key|A
+DBMS|Which SQL statement is used to extract data from a database?|OPEN|GET|EXTRACT|SELECT|D
+DBMS|Which command is used to remove all records from a table?|DELETE|REMOVE|DROP|TRUNCATE|D
+DBMS|Which command is used to modify data in a database?|INSERT|UPDATE|ALTER|MODIFY|B
+DBMS|Which of the following is not a DML command?|INSERT|UPDATE|DELETE|CREATE|D
+DBMS|Which type of key is used to connect two tables?|Candidate key|Foreign key|Primary key|Alternate key|B
+DBMS|Which constraint ensures that all values in a column are different?|UNIQUE|CHECK|NOT NULL|DEFAULT|A
+DBMS|Which command is used to create a new table in SQL?|INSERT|CREATE|ALTER|SELECT|B
+DBMS|Which of the following is used to sort records in SQL?|SORT BY|ORDER|ORDER BY|GROUP BY|C
+DBMS|Which of the following ensures data accuracy and consistency?|Data independence|Data integrity|Data redundancy|Data recovery|B
+DSA|Which data structure uses LIFO order?|Queue|Stack|Linked List|Array|B
+DSA|Which data structure uses FIFO order?|Stack|Queue|Tree|Graph|B
+DSA|Which algorithm is used for sorting?|Binary search|Quick sort|DFS|BFS|B
+DSA|Which searching algorithm divides the list into halves?|Linear search|Binary search|Hash search|Tree search|B
+DSA|Which of the following is a linear data structure?|Array|Graph|Tree|Hash|A
+DSA|Which operation is used to insert an element in a stack?|Insert|Push|Add|Enqueue|B
+DSA|Which operation is used to remove an element from a queue?|Pop|Dequeue|Delete|Remove|B
+DSA|Which traversal prints the nodes of a tree level by level?|Preorder|Inorder|Postorder|Level order|D
+DSA|Which sorting algorithm repeatedly selects the smallest element?|Bubble sort|Selection sort|Merge sort|Quick sort|B
+DSA|Which data structure is used for recursion?|Array|Stack|Queue|Linked list|B
